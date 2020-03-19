@@ -5,8 +5,8 @@
  *
  * @author Juergen Schwind
  * @copyright Copyright (c) JBS New Media GmbH - Juergen Schwind (https://jbs-newmedia.com)
- * @package osWFrame
- * @link http://oswframe.com
+ * @package JBSNM FTPSync
+ * @link https://jbs-newmedia.com
  * @license http://www.gnu.org/licenses/gpl.html GNU General Public License
  */
 class JBSNM_FTPSync {
